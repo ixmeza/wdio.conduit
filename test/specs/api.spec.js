@@ -1,6 +1,9 @@
-const chaiHttp = require("chai-http");
+const chai = require("chai"),
+  chaiHttp = require("chai-http");
 const faker = require("faker");
+
 chai.use(chaiHttp);
+const { expect } = require("chai");
 const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const xhttp = new XMLHttpRequest();
 
