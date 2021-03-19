@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/ixmeza/Web%20-%20Tests/_apis/build/status/ixmeza.wdio.conduit?branchName=master)](https://dev.azure.com/ixmeza/Web%20-%20Tests/_build/latest?definitionId=10&branchName=master)
+[![Build Status](https://dev.azure.com/ixmeza/Web%20-%20Tests/_apis/build/status/ixmeza.wdio.conduit?branchName=main)](https://dev.azure.com/ixmeza/Web%20-%20Tests/_build/latest?definitionId=10&branchName=main)
+
 # wdio.conduit
 
 Automated tests using webdriver.io for [conduit website](https://vue-vuex-realworld.netlify.app). I am also using [faker.js](https://github.com/marak/Faker.js/) to generate random data for the posts content.
